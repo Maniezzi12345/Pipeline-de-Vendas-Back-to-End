@@ -1,12 +1,12 @@
 # 📊 Projeto de Pipeline de Vendas – Arquitetura Medallion
 
-## 📌 Visão Geral
+## Visão Geral
 Este projeto implementa um pipeline de dados para análise de vendas, utilizando recursos da **Azure**, banco de dados **Postgres** e processamento em **Databricks**.  
 A arquitetura segue o padrão **Medallion** (Bronze, Silver, Gold), garantindo organização, qualidade e escalabilidade dos dados.
 
 ---
 
-## 🏗️ Arquitetura Medallion
+## Arquitetura Medallion
 
 | Camada  | Objetivo | Exemplos de Transformações |
 |---------|----------|-----------------------------|
@@ -25,7 +25,7 @@ A arquitetura segue o padrão **Medallion** (Bronze, Silver, Gold), garantindo o
 
 ---
 
-## 🔄 Fluxo do Pipeline
+##  Fluxo do Pipeline
 1. **Ingestão (Bronze):**
    - Conexão com o banco **Postgres**.
    - Extração de tabelas de vendas, clientes e produtos.
