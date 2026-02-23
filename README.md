@@ -1,5 +1,6 @@
 # 📊 Projeto de Pipeline de Vendas – Arquitetura Medallion
-<img width="1024" height="768" alt="Texto do seu parágrafo" src="https://github.com/user-attachments/assets/bf9c4438-32b5-4f3c-8b1b-60e12f421d4f" />
+<img width="1003" height="433" alt="image" src="https://github.com/user-attachments/assets/7b956541-a7f7-48da-8e83-b0af66609728" />
+
 
 ## Visão Geral
 Este projeto implementa um pipeline de dados para análise de vendas, utilizando recursos da **Azure**, banco de dados **Postgres** e processamento em **Databricks**.  
